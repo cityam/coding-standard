@@ -1,0 +1,7 @@
+{
+    "name": "cityam/coding-standard",
+    "description": "City A.M. Coding Standard",
+    "require": {
+        "squizlabs/php_codesniffer": "2.*"
+    }
+}
